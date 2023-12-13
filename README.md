@@ -26,10 +26,27 @@ Here are some ideas to get you started:
 
 ## Skills
 ### Development
-TypeScript NextJs React TailwindCSS NestJS Vue JavaScript HTML5 CSS3 Sass Material UI Redux Webpack Babel NodeJS Express MongoDB PostgreSQL
++ TypeScript
++ NextJs
++ React
++ TailwindCSS
++ NestJS
++ Vue
++ JavaScript
++ HTML5
++ CSS3
++ Sass
++ Material UI
++ Redux
++ Webpack
++ Babel
++ NodeJS
++ Express
++ MongoDB
++ PostgreSQL
 
 ### Design
-Figma
++ Figma
 
 
 
