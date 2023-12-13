@@ -15,9 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🌍 I'm based in Melbourne.
+
 ✉️ You can contact me at howardcui4@gmail.com.
+
 🔭 I’m currently working on Radetec Diagnostic.
+
 🌱 I’m currently learning all the things about React.js development
+
 🤝 I'm open to collaborating on interesting projects.
 
 ## Skills
