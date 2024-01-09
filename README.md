@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on iTrazo iTrazo Tracetech Pty Ltd.
 
-🌱 I’m currently learning all the things about Web development
+🌱 I’m currently learning AWS
 
-🤝 I'm open to collaborating on interesting projects.
+🤝 I'm open to collaborating on interesting projects
 
 ## Skills
 <p align="left">
