@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ✉️ You can contact me at howardcui4@gmail.com.
 
-🔭 I’m currently working on Radetec Diagnostic.
+🔭 I’m currently working on iTrazo iTrazo Tracetech Pty Ltd.
 
-🌱 I’m currently learning all the things about React.js development
+🌱 I’m currently learning all the things about Web development
 
 🤝 I'm open to collaborating on interesting projects.
 
